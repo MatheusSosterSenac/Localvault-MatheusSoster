@@ -1,6 +1,7 @@
 # Localvault-MatheusSoster
 
 Aluno: Matheus Henrique Soster
+
 Turma: ADS 5 fase 2026
 
 1. Por que foi escolhido SharedPreferences?
@@ -49,5 +50,6 @@ Armazenamento seguro de token
 Migração simples de dados
 
 Imagem:
+
 A imagem abaixo mostra a tela principal com as configurações de "Modo Escuro" ativo e com a língua em inglês.
 <img width="924" height="826" alt="image" src="https://github.com/user-attachments/assets/2f0ff9df-1d8c-46eb-a32f-01bf3615956d" />
