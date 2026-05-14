@@ -56,7 +56,7 @@ Armazenamento seguro de token
 
 Migração simples de dados
 
-7. Coleta e Exclusão de Dados
+6. Coleta e Exclusão de Dados
 
 Se o aplicativo fosse publicado na Play Store, os seguintes dados poderiam ser armazenados localmente:
 
