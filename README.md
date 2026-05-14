@@ -49,6 +49,27 @@ Exclusão de perfil
 Armazenamento seguro de token
 Migração simples de dados
 
+6. Coleta e Exclusão de Dados
+
+Se o aplicativo fosse publicado na Play Store, os seguintes dados poderiam ser armazenados localmente:
+
+Nome do usuário
+E-mail
+Idade
+Preferências do aplicativo (tema, idioma e notificações)
+Token de autenticação fictício
+
+Os dados seriam utilizados apenas para funcionamento interno do aplicativo e personalização da experiência do usuário.
+
+Para garantir transparência ao usuário, o aplicativo deve apresentar uma política de privacidade informando:
+
+quais dados são armazenados
+finalidade dos dados
+onde os dados ficam salvos
+como o usuário pode removê-los
+
+O aplicativo também possui a função “Apagar Perfil”, permitindo que o usuário exclua seus dados locais a qualquer momento, seguindo os princípios da LGPD relacionados ao direito de exclusão de dados.
+
 Imagem:
 
 A imagem abaixo mostra a tela principal com as configurações de "Modo Escuro" ativo e com a língua em inglês.
