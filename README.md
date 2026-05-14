@@ -41,15 +41,22 @@ Execute o projeto:
 flutter run
 
 5. Funcionalidades
+   
 Persistência de configurações
+
 Tema claro/escuro
+
 Alteração de idioma
+
 Cadastro de perfil
+
 Exclusão de perfil
+
 Armazenamento seguro de token
+
 Migração simples de dados
 
-6. Coleta e Exclusão de Dados
+7. Coleta e Exclusão de Dados
 
 Se o aplicativo fosse publicado na Play Store, os seguintes dados poderiam ser armazenados localmente:
 
